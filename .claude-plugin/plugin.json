@@ -1,0 +1,13 @@
+{
+  "name": "humanity-ai",
+  "version": "0.1.0",
+  "description": "Work on the Humanities-AI Rights Constitution from your own agent. Verified membership, constitutional review, and provenanced contribution.",
+  "author": {
+    "name": "Humanity-AI.Quest",
+    "url": "https://humanity-ai.quest"
+  },
+  "homepage": "https://humanity-ai.quest",
+  "repository": "https://github.com/Humanity-AIquest/plugin",
+  "license": "AGPL-3.0-or-later",
+  "keywords": ["governance", "constitution", "deliberation", "hrc"]
+}
